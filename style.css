@@ -1,0 +1,53 @@
+body {
+    background-color: #7fffd4;
+    user-select: none;
+}
+.container {
+    width: 320px;
+    border: 3px black;
+    border-radius: 5px;
+    background-color: red;
+
+}
+
+input {
+    margin: 0px;
+    width: 302px;
+    height: 60px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin: 5px 5px 0px 5px;
+
+    text-align: right;
+}
+.button {
+    width: 37px;
+    height: 37px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+vertical-align: center;
+    background-color: grey;
+}
+.back {
+    margin-left: 5px;
+    width: 74px;
+    height: 40px;
+}
+.ce {
+    width: 74px;
+    height: 40px;
+}
+.c {
+    width: 74px;
+    height: 40px;
+}
+.empt {
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+    display: block;
+}
